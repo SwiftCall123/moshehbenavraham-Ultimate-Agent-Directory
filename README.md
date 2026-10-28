@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Total Entries](https://img.shields.io/badge/Total%20Entries-776-blue?style=for-the-badge&logo=database&logoColor=white)
+![Total Entries](https://img.shields.io/badge/Total%20Entries-777-blue?style=for-the-badge&logo=database&logoColor=white)
 ![Last Updated](https://img.shields.io/badge/Updated-October_2026-purple?style=for-the-badge&logo=calendar&logoColor=white)
 
 **Version: 0.1.1**
@@ -576,7 +576,7 @@ Missing something? [Submit an issue](https://github.com/moshehbenavraham/Ultimat
 | **Snyk** | [Link](https://snyk.io/) | Developer security platform that uses DeepCode AI to provide real-time security intelligence, automatically fix vulnerabilities, and integrate security into development workflows. Features AI-powered code analysis and automated remediation capabilities. |
 | **Stripe Agent Toolkit** | [GitHub](https://github.com/stripe/ai) | Stripe's official toolkit for building AI-powered products and connecting agents to Stripe payments, customers, invoices, subscriptions, refunds, and related financial workflows, including MCP-compatible tooling. ![Stars](https://img.shields.io/badge/stars-1808-yellow) |
 | **Sully.ai** | [Link](https://www.sully.ai/) | Healthcare AI employee platform for hospitals and medical practices. Sully automates clinical, administrative, and patient-operations workflows with agents for scribing, reception, nursing, review replies, review insights, and integrations across EHRs, payments, forms, communications, and analytics systems. |
-| **SwiftCall** | [Link](https://swiftcall.org/ai-agents) | Done-for-you AI agents for small businesses: a phone agent that answers and qualifies every call, plus booking, CRM follow-up, social posting and back-office agents. Live demo line on the site. |
+| **SwiftCall** | [Link](https://swiftcall.org/ai-agents) | Done-for-you AI agents for small businesses. A phone agent answers and qualifies every call, with booking, CRM follow-up, social posting and back-office agents around it. A live demo line is on the site. |
 | **Synthflow AI** | [Link](https://synthflow.ai/) | No-code enterprise platform for creating and deploying natural-sounding voice agents with multilingual support for 30+ languages and dialects. Features sub-100ms latency with in-house telephony, HIPAA and GDPR compliance, 200+ enterprise integrations including Salesforce and HubSpot, and white-label capabilities for handling customer support, appointment scheduling, and complex workflows at scale. |
 | **Sysdig** | [Link](https://sysdig.com/) | Cloud security platform that uses AI agents for threat detection, vulnerability management, and cloud detection response. Features real-time security intelligence and automated response capabilities for container and Kubernetes environments. |
 | **Talkscriber** | [Link](https://www.talkscriber.com/) | Enterprise-grade AI speech-to-text platform offering industry-leading transcription accuracy with Word Error Rate under 4%, featuring emotion detection across 7 emotions and purchase intent analysis. Provides secure deployment options across on-premises, public, private, or hybrid cloud with advanced capabilities including dialogue summarization, topic extraction, and PII redaction for customer interaction insights. |
@@ -980,9 +980,9 @@ Missing something? [Submit an issue](https://github.com/moshehbenavraham/Ultimat
 
 ## Statistics
 
-- **Total Entries:** 776
+- **Total Entries:** 777
 - **Categories:** 12
-- **Last Generated:** 2026-10-21
+- **Last Generated:** 2026-10-28
 
 ---
 
